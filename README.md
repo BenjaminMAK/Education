@@ -14,3 +14,22 @@ Folder:
   | - readme.md
 ```
 
+
+# Git Commands in Terminal
+```python
+# Clone repo
+git clone [url]
+
+# Add. all local data for push commit
+git add .
+
+# Git pull to get the current stage of repo
+git pull
+
+# Prepare a messages for the commit command 
+git commit -m "Text for the Team"
+
+# Upload all data to the repo. 
+git push
+```
+
