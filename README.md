@@ -4,7 +4,10 @@ This git is used to provide the content for the lectures. You will find material
 
 ## Recommendation for the folder structure in your own Git: 
 Folder:
+```python
 | - Code 
 | - Figures 
 | - Data 
 | - docu
+```
+
